@@ -7,7 +7,7 @@ Junior Front-End Developer
 Recentemente, ho intrapreso un significativo cambio di carriera, specializzandomi nei linguaggi web e nell'ambito di sviluppo front-end mediante un corso intensivo di tre mesi. Questa transizione ha arricchito il mio bagaglio professionale, consolidando le mie competenze nel campo dell'informatica e della programmazione.
 Qui verranno visualizzate le tappe fondamentali del mio percorso di apprendimento, sia progetti personali, che futuri progetti legati al lavoro.
 ***
-I am a dynamic and enthusiastic girl, with a multifaceted background that spans across different areas. Recently, I made a significant career change, specializing in web languages ​​and front-end development through a three-month intensive course. This transition enriched my professional knowledge, consolidating my skills in the field of IT and programming. Here will be displayed the milestones of my learning journey, as in personal projects, as well as future work related projects.
+Recently, I made a significant career change, specializing in web languages ​​and front-end development through a three-month intensive course. This transition enriched my professional knowledge, consolidating my skills in the field of IT and programming. Here will be displayed the milestones of my learning journey, as in personal projects, as well as future work related projects.
 
 *   🌍  I'm based in Italy, Reggio Emilia
 *   ✉️  You can contact me at [nicolefilippi01@gmail.com](mailto:nicolefilippi01@gmail.com)
